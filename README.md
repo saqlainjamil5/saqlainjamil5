@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saqlainjamil5
 - 👀 I’m interested in Andriod devolment 
-- 🌱 I’m currently learning website SEO
+- 🌱 I’m currently learning Ract Native & website SEO
 - 📫 How to reach me +92 335-4706588
 
 <!---
