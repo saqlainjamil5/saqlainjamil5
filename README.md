@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saqlainjamil5
 - 👀iOS developer 
-- 🌱 I’m currently learning ios
 - 📫 How to reach me +92 335-4706588
 
 <!---
