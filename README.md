@@ -1,43 +1,85 @@
-<h1 align="center">Hi 👋, I'm Saqlain Jamil</h1> <h3 align="center">iOS Engineer • Swift & SwiftUI • Spatial Computing (visionOS / ARKit)</h3> <p align="center"> <a href="https://linkedin.com/in/saqlain-jamil-4924651b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://stackoverflow.com/users/22436601"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a> <a href="mailto:saqlainjamil2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://apps.apple.com/ma/app/swiftpress-ai-writing-keyboard/id6738484478"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a> </p>
-🧑‍💻 About Me
-iOS Engineer with 2+ years of experience shipping high-performance apps with Swift and SwiftUI. I build production features end to end — REST/WebSocket integrations, Firebase-backed real-time data, In-App Purchases, ads, and localization across 16+ languages. I care about clean architecture (MVVM), reusable components, and code that stays maintainable as a product grows.
+<div align="center">
 
-🚀 Currently building iOS apps at SiliconFort LLC, Lahore
-🥽 Exploring visionOS, RealityKit, and ARKit for spatial computing experiences
-🤖 Working with CoreML and the Vision framework for on-device AI features
-📱 3 apps live on the App Store
-📫 Reach me at saqlainjamil2@gmail.com · +92 335 4706588
-🛠️ Tech Stack
-Languages
+# Saqlain Jamil
 
-<p> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> </p>
-UI & Frameworks
+**iOS Engineer · Swift & SwiftUI · Kotlin Multiplatform**
 
-<p> <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/RealityKit-000000?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=arkit&logoColor=white"> <img src="https://img.shields.io/badge/visionOS-000000?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/AVFoundation-000000?style=flat-square&logo=apple&logoColor=white"> </p>
-Backend & Cloud
+I build production mobile apps and SaaS products, from architecture and backend integration to App Store release.
 
-<p> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"> </p>
-Tools & Practices
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-jamil-4924651b1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saqlainjamil2@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22436601)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/ma/app/swiftpress-ai-writing-keyboard/id6738484478)
 
-<p> <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/Instruments-1575F9?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/MVVM-4B32C3?style=flat-square"> <img src="https://img.shields.io/badge/StoreKit%20%2F%20IAP-000000?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white"> </p>
-📱 Featured Work
-Project	What it does	Built with
-SwiftPress – AI Writing Keyboard	AI keyboard extension for 16+ languages with smart replies, real-time translation, and contextual rewriting for chat, email, and writing.	SwiftUI, Keyboard Extensions, REST, IAP
-SwiftBoard – Work Keyboard	Productivity keyboard with text shortcuts, templates, and workflow automation straight from the iOS keyboard.	SwiftUI, Keyboard Extensions, MVVM
-Innerworld – Your Emotional HQ	3D-style emotional wellness app with mood tracking, gratitude journaling, and scheduled self-messages.	SwiftUI, MVVM, persistent storage
-Travel Vision – Immersive AR/VR Travel	Spatial travel app where users explore destinations via 3D environments, panoramic scenes, and AR overlays.	visionOS, RealityKit, ARKit, SwiftUI
-Ryvato – Intelligent Project Management	Team planning with baseline locking, critical path tracking, and EVM analytics (CPI/SPI) with one-click reporting.	SwiftUI, MVVM, charts
-AI Scanner – Document & Object Scanner	Real-time object recognition, OCR, smart edge detection, auto-crop, and AI content classification.	Vision, CoreML, SwiftUI, MVVM
-💼 Experience
-iOS Engineer — SiliconFort LLC, Lahore · Jun 2026 – Present Building and maintaining iOS apps with Swift, SwiftUI, UIKit, and MVVM. Shipping scalable features and real-time data flows over REST and WebSocket, working alongside cross-functional teams.
+</div>
 
-iOS Developer — BJS Soft Solution Pvt Ltd, Lahore · Aug 2024 – Present Delivered scalable SwiftUI apps focused on performance, clean architecture, and responsive UI. Integrated REST APIs and Firebase (Auth, Firestore, Push Notifications), implemented In-App Purchases, rewarded ads, and multi-language localization, and drove MVVM adoption with reusable components.
+---
 
-iOS Developer — Grayhat, Islamabad · Jun 2024 – Aug 2024 Shipped advanced SwiftUI features using third-party Swift packages, took part in code reviews and sprint planning, and contributed integrations that measurably improved app performance and UX.
+## About
 
-🎓 Education
-BS Computer Science — University of South Asia, Lahore · 2020 – 2024 Intermediate, Computer Science — Government College of Science, Lahore · 2018 – 2020
+I'm an iOS engineer with 2.5+ years of professional experience shipping apps in Swift and SwiftUI. I also build cross-platform features with Kotlin Multiplatform. I own features end to end: architecture, REST and WebSocket backend integration, real-time data, in-app purchases and App Store release. I care about clean architecture, reusable components and code that stays easy to maintain as a product grows.
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=saqlainjamil5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainjamil5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainjamil5&theme=tokyonight&hide_border=true" alt="Streak stats"> </p>
-<p align="center"><i>Open to iOS and visionOS opportunities — let's build something worth shipping.</i></p> <!--- saqlainjamil5/saqlainjamil5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
+I currently build mobile apps for SaaS products at **SiliconFort**, and I'm exploring spatial computing with visionOS and on-device AI with CoreML.
+
+## What I work on
+
+- **Native iOS:** SwiftUI and UIKit, MVVM, reusable component libraries
+- **Kotlin Multiplatform:** business logic and UI shared between iOS and Android, with native platform integrations
+- **Backend integration:** REST APIs, WebSocket real-time streams, authentication flows, Firebase (Auth, Firestore, push notifications)
+- **SaaS products:** multi-tenant mobile apps with per-client configuration, theming and environments
+- **Monetization:** StoreKit / In-App Purchases, rewarded ads
+- **Keyboard extensions & localization:** AI-powered keyboards, apps shipped in 16+ languages
+- **On-device AI & spatial computing:** Vision, CoreML, ARKit, RealityKit, visionOS
+
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Languages | Swift, Kotlin, C++ |
+| iOS | SwiftUI, UIKit, StoreKit, AVFoundation, Keyboard Extensions |
+| Cross-platform | Kotlin Multiplatform, Compose Multiplatform, Ktor |
+| Backend & data | REST APIs, WebSocket, JSON, Firebase (Auth, Firestore, Cloud Messaging) |
+| Spatial & ML | visionOS, RealityKit, ARKit, CoreML, Vision |
+| Architecture | MVVM, Clean Architecture, modular components |
+| Tooling | Xcode, Instruments, Gradle, Git, CI pipelines |
+
+## Experience
+
+**iOS Engineer — SiliconFort LLC** · Lahore · *Jun 2026 – Present*
+- Build mobile apps for a multi-tenant SaaS platform using Swift, SwiftUI and Kotlin Multiplatform.
+- Share business logic and screens between iOS and Android with Kotlin Multiplatform and Compose Multiplatform.
+- Integrate REST APIs and WebSocket streams for real-time data, authentication and payment flows.
+- Work with design, backend and QA teams from planning through release.
+
+**iOS Developer — BJS Soft Solution Pvt Ltd** · Lahore · *Aug 2024 – May 2026*
+- Shipped SwiftUI apps to the App Store with a focus on performance, clean architecture and responsive UI.
+- Integrated REST APIs and Firebase (Auth, Firestore, push notifications), In-App Purchases, rewarded ads and localization in 16+ languages.
+- Led the team's move to MVVM and built a library of reusable components shared across apps.
+
+**iOS Developer — Grayhat** · Islamabad · *Jun 2024 – Aug 2024*
+- Built SwiftUI features on top of third-party Swift packages, which improved app performance and UX.
+- Took part in code reviews and sprint planning.
+
+## Selected work
+
+| Project | Description | Stack |
+|---|---|---|
+| [**SwiftPress – AI Writing Keyboard**](https://apps.apple.com/ma/app/swiftpress-ai-writing-keyboard/id6738484478) | AI keyboard for 16+ languages with smart replies, real-time translation and contextual rewriting | SwiftUI, Keyboard Extension, REST, StoreKit |
+| **SwiftBoard – Work Keyboard** | Productivity keyboard with text shortcuts, templates and workflow automation | SwiftUI, Keyboard Extension, MVVM |
+| **Travel Vision** | Spatial travel app: explore destinations through 3D environments, panoramas and AR overlays | visionOS, RealityKit, ARKit |
+| **AI Scanner** | Document and object scanner with OCR, edge detection, auto-crop and on-device classification | Vision, CoreML, SwiftUI |
+| **Ryvato** | Project management with baseline locking, critical-path tracking and EVM analytics (CPI/SPI) | SwiftUI, MVVM, Charts |
+| **Innerworld** | Emotional wellness app with mood tracking, gratitude journaling and scheduled self-messages | SwiftUI, MVVM, local persistence |
+
+## Education
+
+**BS Computer Science** — University of South Asia, Lahore · 2020 – 2024
+
+---
+
+<div align="center">
+
+Open to iOS, Kotlin Multiplatform and visionOS engineering roles.
+**[saqlainjamil2@gmail.com](mailto:saqlainjamil2@gmail.com)**
+
+</div>
